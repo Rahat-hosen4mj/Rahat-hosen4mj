@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **snrahat.stud4143@gmail.com**
 
-- 📄 Know about my experiences [https://rahat-hosen4mj.github.io/resume/](https://rahat-hosen4mj.github.io/resume/)
+- 📄 Know about my experiences [https://rahat-hosen4mj.github.io/myResume](https://rahat-hosen4mj.github.io/resume/)
 
 - ⚡ Fun fact **I am Funny**
 
