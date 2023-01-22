@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React Mongodb Express Node**
 
-- 📫 How to reach me **snrahat.stud4143@gmail.com**
+- 📫 How to reach me **mrrahathosen@gmail.com**
 
 - 📄 Know about my experiences [https://rahat-hosen4mj.github.io/myResume](https://rahat-hosen4mj.github.io/myResume/)
 
